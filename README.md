@@ -398,14 +398,17 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
-
-
+![output](./images/home1.png)
+![output](./images/home2.png)
 ### Product Page:
+![output](./images/products.png)
 
 ### People page:
 
+![output](./images/people.png)
 
-### contactus page:
+### contact us page:
+![output](./images/contact.png)
 
 ## Result:
 
