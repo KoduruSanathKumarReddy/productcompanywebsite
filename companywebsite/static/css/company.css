@@ -1,0 +1,144 @@
+.toppart{
+    border-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image:url("https://media.istockphoto.com/photos/abstract-blue-backgrounds-picture-id1206001151?k=20&m=1206001151&s=612x612&w=0&h=9aEt4WGoWXt0ULB73ycqRxTyvC5v4aRJ7BBVMT7bJ-I=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*height: 500px;*/
+
+}
+
+.banner{
+    display: block;
+    font-size:100px;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    padding-top: 150px;
+    color:#ccd3ad;
+
+}
+
+.menu {
+    display: block;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    /** background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQsTSP09KPmp5te9HJARLZvz0w44POVAhMQ&usqp=CAU");**/
+    background-color: #EDEDED;
+    text-align: center;
+    padding-top: 15px;
+    margin: 0px 0px 0px 0px;
+    border-width: 1px;
+  }
+  
+  .menuitem {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+  }
+  .menuitemselected {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #16d1ae;
+    font-size: 20px;
+  }
+  
+  .menuitem a {
+    text-decoration: none;
+    color: #9c1018;
+  }
+  .matter{
+      font-size: 50px;
+  }
+
+  .content {
+    display: block;
+    width: 100%;
+    color:white;
+    min-height: 500px;
+    margin: 0px 0px 0px 0px;
+    border-width: 1px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/275/421/non_2x/the-technology-of-intelligent-operating-system-ai-on-a-dark-blue-background-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: conver;
+    border-style: solid;
+  }
+  .homecontent {
+    min-height: 500px;
+    margin: 10px 10px 10px 10px;
+  }
+  .homecontent h1 {
+    text-align: left;
+  }
+  .homecontent img {
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;
+  }
+  
+  .contenttext {
+    text-align: justify;
+    color:grey
+  }
+  
+  .footer {
+  display: block;
+  width: 100%;
+  height: 40px;
+  background-color: #EDEDED;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0px 0px 0px 0px;
+  color: #9c1018;
+}
+
+
+.productcontent {
+  min-height: 500px;
+  margin: 10px 10px 10px 10px;
+}
+
+.productcontent h1 {
+  text-align: left;
+}
+
+.productitems {
+  display: block;
+}
+
+.productitem {
+  display: inline-block;
+  width: 30%;
+  height: 250px;
+  text-align: center;
+}
+
+.productitem img {
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+.productitem .itemimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  margin-bottom: 5px;
+}
+
+.productitem .itemname {
+  display: block;
+}
+.productitem .itemprice {
+  display: block;
+}
+
+.list{
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
