@@ -42,8 +42,10 @@ Publish the website in the given URL.
     <head>
         <title>SaSof Info Private Limited.</title>
         <link rel="stylesheet" type="text/css" href="css/company.css">
+        <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
     </head>
     <body>
+
         <div class="toppart">
            <div class="banner">SaSof Info Private Limited </div> 
            <div class="menu">
@@ -56,9 +58,11 @@ Publish the website in the given URL.
         <div class="content">
             <div class="homecontent">
                 <h1><b><u>Introduction</u></b></h1>
-                <img src="https://4.imimg.com/data4/BN/JN/MY-9786397/building-design-software-500x500.jpg" alt="building">
+                <p></p>
+                <img src="/static/images/logo.jpeg" alt="building">
                 <div class="content">
-                    Our company runs on the trust of employes. Our compnay motive is to make a better way to technology as a better future.
+                    <p></p>
+                          Our company runs on the trust of employes. Our compnay motive is to make a better way to technology as a better future.
                     we make our clients and customers happy by delivering best quality products. 
                     <br>
                             SaSof Info Private limited was establish on November 13, 2002. It has kept reaching its milestones. We keep updating our <br>
@@ -67,6 +71,7 @@ Publish the website in the given URL.
                     <h1><u><b>About our products</b></u></h1>
                     Our products are known for their quality and for their functioning. The products we design are future ready. Most of our<br>
                     products are recognised by international corportations. The aim of our products is to spread the technology globally.
+                        We provide the software which are very much aware of many maliculus acitivities.
                     <br>
                     Our products will make your day happier. To purchase our products please do visit products page.
                         
@@ -77,7 +82,9 @@ Publish the website in the given URL.
         </div>
         <div class="footer">
             Copyright &#169; 2021 SaSof Info Private Limited, Developed by Koduru Sanath Kumar Reddy.
+            
           </div>
+        </div>
         </div>
       </body>
     </html>
@@ -252,10 +259,10 @@ Publish the website in the given URL.
     border-width: 1080px;
     margin-left: auto;
     margin-right: auto;
-    background-image:url("https://media.istockphoto.com/photos/abstract-blue-backgrounds-picture-id1206001151?k=20&m=1206001151&s=612x612&w=0&h=9aEt4WGoWXt0ULB73ycqRxTyvC5v4aRJ7BBVMT7bJ-I=");
+    background-image:url("https://image.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    /*height: 500px;*/
+  
 
 }
 
@@ -311,8 +318,8 @@ Publish the website in the given URL.
     color:white;
     min-height: 500px;
     margin: 0px 0px 0px 0px;
-    border-width: 1px;
-    background-image: url("https://static.vecteezy.com/system/resources/previews/002/275/421/non_2x/the-technology-of-intelligent-operating-system-ai-on-a-dark-blue-background-vector.jpg");
+    border-width: 2px;
+    /*background-image: url("https://image.freepik.com/free-vector/gradient-network-connection-background_23-2148865392.jpg");*/
     background-repeat: no-repeat;
     background-size: conver;
     border-style: solid;
@@ -393,6 +400,8 @@ Publish the website in the given URL.
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+
+
 ~~~
 
 ## OUTPUT:
@@ -401,14 +410,17 @@ Publish the website in the given URL.
 ![output](./images/home1.png)
 ![output](./images/home2.png)
 ### Product Page:
-![output](./images/products.png)
+![output](./images/product1.png)
+![output](./images/product1.png)
 
 ### People page:
 
-![output](./images/people.png)
+![output](./images/people1.png)
+![output](./images/people2.png)
 
 ### contact us page:
-![output](./images/contact.png)
+![output](./images/contact1.png)
+![output](./images/contact2.png)
 
 ## Result:
 
