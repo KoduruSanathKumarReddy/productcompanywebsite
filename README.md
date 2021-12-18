@@ -101,13 +101,14 @@ Publish the website in the given URL.
     <head>
         <title>SaSof Info Private Limited.</title>
         <link rel="stylesheet" type="text/css" href="css/company.css">
+        <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
     </head>
     <body>
         <div class="toppart">
             <div class="banner">SaSof Info Private Limited </div> 
             <div class="menu">
-             <div class="menuitemselected"><a href="./home.html">Home</a></div>
-             <div class="menuitem"><a href="./products.html">Products</a></div>
+             <div class="menuitem"><a href="./home.html">Home</a></div>
+             <div class="menuitemselected"><a href="./products.html">Products</a></div>
              <div class="menuitem"><a href="./people.html">People</a></div>
              <div class="menuitem"><a href="./contacts.html">Contact Us</a>
              </div>
@@ -146,12 +147,60 @@ Publish the website in the given URL.
                     </div>
                     <div class="productitem"> 
                         <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/616ctmcjXLS._SL1500_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Ubuntu Os</div>
+                        <div class="itemprice">Price: Rs.830</div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/61H7xThAX2L._SL1500_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Ms Office for student and home</div>
+                        <div class="itemprice">Price: Rs.8,000 </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/71HpEfZSgkL._SL1500_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Office 365 Peronal</div>
+                        <div class="itemprice">Price: Rs.4,000 </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/71rqzSt18FL._SX679_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Ms Office Family</div>
+                        <div class="itemprice">Price: Rs.3,000 </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/61V2Gsr+t7L._SL1101_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">IT Software</div>
+                        <div class="itemprice">Price: Rs.800 </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/41s982OkJVL.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Office 365 Business Premium</div>
+                        <div class="itemprice">Price: Rs.8,000 </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://m.media-amazon.com/images/I/71ZNcOmaDAL._SL1470_.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Quick heal antivirus</div>
+                        <div class="itemprice">Price: Rs.3,5000</div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
                         <img src="https://assets.goodfirms.co/blog/477/top-billing-invoicing-software-features-advantages.jpg"  alt="product image">
                         </div>
-                        <div class="itemname">Billing Software/div>
+                        <div class="itemname">Billing Software</div>
                         <div class="itemprice">Price: Rs.83,000 </div>
                     </div>
-                     
                 </div>
                 </div>        
             </div>
@@ -160,8 +209,7 @@ Publish the website in the given URL.
             </div>
           </div>
         </body>
-      </html>
-~~~
+      </html>~~~
 
 ### contacts page:
 ~~~
@@ -170,23 +218,24 @@ Publish the website in the given URL.
     <head>
         <title>SaSof Info Private Limited.</title>
         <link rel="stylesheet" type="text/css" href="css/company.css">
+        <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
     </head>
     <body>
         <div class="toppart">
             <div class="banner">SaSof Info Private Limited </div> 
             <div class="menu">
-             <div class="menuitemselected"><a href="./home.html">Home</a></div>
+             <div class="menuitem"><a href="./home.html">Home</a></div>
              <div class="menuitem"><a href="./products.html">Products</a></div>
              <div class="menuitem"><a href="./people.html">People</a></div>
-             <div class="menuitem"><a href="./contacts.html">Contact Us</a>
+             <div class="menuitemselected"><a href="./contacts.html">Contact Us</a>
              </div>
          </div>
         <div class="content">
             <div class="homecontent">
                 <h1><b><u>contact us</u></b></h1>
-                <p><h4>Mail us at koduru365@gmail.com</h4></p>
+                <p><h4>Mail us at SaSofInfoPvtLtd@gmail.com</h4></p>
                 <p><h4>Call us at 5588448833</h4></p>
-                <p><h4>We are soon linking to social media.</h4></p>
+                <p><h4>Our Main Branch is at:- 3-199 parkavenue line, opposite to clock tower, Sas building 5th floor</h4></p>
 
                 </div>
             </div>
@@ -203,7 +252,6 @@ Publish the website in the given URL.
     </body>
 
 </html>
-
 ~~~
 
 ### people page:
@@ -213,34 +261,69 @@ Publish the website in the given URL.
     <head>
         <title>SaSof Info Private Limited.</title>
         <link rel="stylesheet" type="text/css" href="css/company.css">
+        <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico">
     </head>
     <body>
         <div class="toppart">
             <div class="banner">SaSof Info Private Limited </div> 
             <div class="menu">
-             <div class="menuitemselected"><a href="./home.html">Home</a></div>
-             <div class="menuitem"><a href="./products.html">Products</a></div>
-             <div class="menuitem"><a href="./people.html">People</a></div>
-             <div class="menuitem"><a href="./contacts.html">Contact Us</a>
+                <div class="menuitem"><a href="./home.html">Home</a></div>
+                <div class="menuitem"><a href="./products.html">Products</a></div>
+                <div class="menuitemselected"><a href="./people.html">People</a></div>
+                <div class="menuitem"><a href="./contacts.html">Contact Us</a>
+                </div>
              </div>
          </div>
-        <div class="content">
-            <div class="homecontent">
-                <h1><b><u>The backbone of our company are the following members</u></b></h1>
-                <ul class="list">
-                    <li>The ceo of the company is Koduru Sanath Kumar Reddy</li>
-                    <li>The hr of the comapny is Kandukuri Sai Eswar</li>
-                    <li>The client manager of the comapy is M.Gautham</li>
-                    <li>The resource manager of the company is Adithya</li>
-                    <li>Our branch head manager is GV Pavan</li>
-                    <li>Capital manager is Vishnu Vardhan</li>
-                </ul>
-                
+         <div class="content">
+            <div class="productcontent">    
+                <h1><b><u>The Pillars of Our Company</u><b></h1>
+                <div class="productitems">
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://www.post-covid-summit.com/wp-content/uploads/2020/09/JoshLerner_MostRecent-1-384x467.jpg" alt="product image">
+                        </div>
+                        <div class="itemname">CEO</div>
+                        <div class="itemprice">Mr.Jack </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://www.orcahrsolutions.com/wp-content/uploads/2020/09/image7_PeteStamper.png"  alt="product image">
+                        </div>
+                        <div class="itemname">Product Manager</div>
+                        <div class="itemprice">Mr.Suchin </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://admin.euro.savills.co.uk/_images/headshot-hamann-peter-web(1).jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">VP of Marketing</div>
+                        <div class="itemprice">Mr. Jones</div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://admin.euro.savills.co.uk/_images/square-profile-images/spreece.jpg"  alt="product image">
+                        </div>
+                        <div class="itemname">Project Manager</div>
+                        <div class="itemprice">Mr.Ryan </div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://www.ifo.de/sites/default/files/styles/1_to_1__600x600/public/2019-04/cvfoto-brandt.jpg?h=43067cb4&itok=mlhUf64T&c=1555053663"  alt="product image">
+                        </div>
+                        <div class="itemname">Technical Lead</div>
+                        <div class="itemprice">Mr. Fed</div>
+                    </div>
+                    <div class="productitem"> 
+                        <div class="itemimage">
+                        <img src="https://www.hrmagazine.co.uk/media/hpids2xw/article-images-2f171546-2falan_price.jpg?anchor=center&mode=crop&width=1002&height=564&bgcolor=White&rnd=132555231709400000"  alt="product image">
+                        </div>
+                        <div class="itemname">Senior Engineer</div>
+                        <div class="itemprice">Mr. Ruther </div>
+                    </div>
+                    
                 </div>
+                </div>        
             </div>
-
-
-        </div>
         <div class="footer">
             Copyright &#169; 2021 SaSof Info Private Limited, Developed by Koduru Sanath Kumar Reddy.
           </div>
@@ -411,7 +494,7 @@ Publish the website in the given URL.
 ![output](./images/home2.png)
 ### Product Page:
 ![output](./images/product1.png)
-![output](./images/product1.png)
+![output](./images/product2.png)
 
 ### People page:
 
