@@ -209,7 +209,8 @@ Publish the website in the given URL.
             </div>
           </div>
         </body>
-      </html>~~~
+      </html>
+~~~
 
 ### contacts page:
 ~~~
